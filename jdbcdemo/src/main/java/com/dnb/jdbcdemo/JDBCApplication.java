@@ -26,7 +26,7 @@ public class JDBCApplication {
 	
 //	 java.sql.Date date = Date.valueOf(LocalDate.now());
 //	 System.out.println(date);
-
+     System.out.println("Hello to git");
 	 Account account = new Account();
 	 
 	 
